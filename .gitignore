@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+
+# Ignore credentials
+token.json
+credentials.json
+
+# Ignore any PyWhatKit generated database files
+PyWhatKit_DB.txt
